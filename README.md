@@ -155,7 +155,11 @@ Prompt: "Send a thank you email to the team after today's project meeting, summa
 - **[Quick Feature Overview](Demo%20Video.mp4)** - Key features in 2 minutes
 
 ### Live Examples
-Access our interactive demo at: [Demo Link](http://your-demo-url.com)
+
+
+https://github.com/user-attachments/assets/b6d56403-3fc7-448e-9908-cb1ce5eb7544
+
+
 
 ### Sample Workflows
 1. **Email Classification**: Automatically categorize incoming emails
